@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 </div>
 
 ###
-[![rizafrivaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizafrivaldi&show_icons=true&theme=prussian)]
+![rizafrivaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizafrivaldi&show_icons=true&theme=prussian)
