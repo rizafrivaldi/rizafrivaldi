@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Rizaf Rivaldi and I'm a big fans of Mie Ayam Bakso</p>
+<p align="left">My name is Rizaf Rivaldi and I'm a big fans of AI - Americano Ice</p>
 
 ###
 
