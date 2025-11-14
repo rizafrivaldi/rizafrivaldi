@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3>
 
 ![Rizaf Rivaldi](img/github-header-banner.png)
@@ -42,15 +41,15 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">About me</h3>
+<h4 align="left">About me</h4>
 
 ###
 
-<p align="left">✨ I'm currently working on Citia Engineering Indonesia<br>📚 I'm currently learning how to sleep well</p>
+<p align="left">I'm currently working on Citia Engineering Indonesia<br>I'm currently learning how to sleep well</p>
 
 ###
 
-<h3 align="left">I code with</h3>
+<h4 align="left">I code with</h4>
 
 ###
 
