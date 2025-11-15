@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3>
+<!--h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3-->
 
 ![Rizaf Rivaldi](img/github-header-banner.png)
 
