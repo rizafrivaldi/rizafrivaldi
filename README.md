@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3-->
+<h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3>
 
 ![Rizaf Rivaldi](img/github-header-banner.png)
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm currently working on Citia Engineering Indonesia<br>I'm currently learning how to sleep well</p>
+<p align="left">I'm currently working on Citia Engineering Indonesia and learning how to sleep well</p>
 
 ###
 
