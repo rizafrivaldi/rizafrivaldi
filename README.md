@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Hi, Lorem Ipsum Dolor Sit Amet</h3>
 
-![Rizaf Rivaldi](img/github-header-banner.png)
+<!--![Rizaf Rivaldi](img/github-header-banner.png)-->
 
 <!-- 
 **rizafrivaldi/rizafrivaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
