@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">My name is Rizaf Rivaldi and I'm a big fans of AI - Americano Ice</p>
-
-###
-
 <p align="left">I'm currently working on Citia Engineering Indonesia and learning how to sleep well</p>
 
 ###
